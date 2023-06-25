@@ -49,8 +49,9 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [@via frontend mentor]([https://your-solution-url.com](https://www.frontendmentor.io/solutions/advanced-todo-app-using-viteandreact-with-dark-mode-and-drag-and-drop-a6gXXHgy_Q))
+- Live Site URL: [@via Vercel](https://my1st-react-app.vercel.app/)
 - Live Site URL: [@via Netlify](https://my1st-react-app.netlify.app/)
+- Solution URL: [@via frontend mentor]([https://your-solution-url.com](https://www.frontendmentor.io/solutions/advanced-todo-app-using-viteandreact-with-dark-mode-and-drag-and-drop-a6gXXHgy_Q))
 
 ### Built with
 
