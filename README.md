@@ -65,7 +65,7 @@ Users should be able to:
 
 ### What I learned
 
-more be confident writing ReactJs by using React Hooks (useState, useEffect) and external libraries.
+be more confident writing ReactJs by using React Hooks (useState, useEffect) and external libraries.
 
 ### Continued development
 
